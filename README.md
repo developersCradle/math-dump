@@ -1,11 +1,22 @@
-## Project dump for different math consepts 
+## Math prototypes/dump from different sources and projects/courses 
+
+<img src="mathLogoCoolLogo.PNG" alt="alt text" width="400"/>
+
+\
+\
+Applying different math concepts into one hotpot project.
 
 
-todo laita tänne lineaari algebran tavarn
 
-ja 
 
-peli matikka 
+## Some Todo when time
+
+- [ ] Project Euler tasks [Project Euler](https://projecteuler.net/)
+- [ ]  Math in games [Math for gamedevelopers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
+
+- [ ] Some linear algebra course
+
+
 
 
 
