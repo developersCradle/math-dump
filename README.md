@@ -7,7 +7,8 @@
 Applying different math concepts into one hotpot project.
 
 
-
+## Concepts
+- [X] [Matrix Rank](#) 
 
 ## Some Todo when time
 
